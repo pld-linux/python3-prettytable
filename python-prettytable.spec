@@ -8,7 +8,7 @@ Summary:	Python 2 library for displaying tabular data in nice ASCII table format
 Summary(pl.UTF-8):	Biblioteka Pythona 2 do wyświetlania danych tabelarycznych w ładnej tabelce ASCII
 Name:		python-prettytable
 Version:	0.7.2
-Release:	2
+Release:	3
 License:	BSD
 Group:		Libraries/Python
 #Source0Download: https://pypi.python.org/simple/prettytable/
