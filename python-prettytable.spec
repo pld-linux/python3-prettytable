@@ -9,7 +9,7 @@ Summary(pl.UTF-8):	Biblioteka Pythona 2 do wyświetlania danych tabelarycznych w
 Name:		python-prettytable
 # keep 1.x here for python2 support
 Version:	1.0.1
-Release:	2
+Release:	3
 License:	BSD
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/prettytable/
